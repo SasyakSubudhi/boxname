@@ -1,1 +1,1 @@
-# boxname
+# Box Class
